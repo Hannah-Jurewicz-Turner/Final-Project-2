@@ -7,10 +7,10 @@
 }
 
 .image {
-  Display: block;
-  Margin-left: auto;
-  Margin-right: auto;
-  Width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
 }
 
 #paragraph {
